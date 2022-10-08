@@ -1,0 +1,22 @@
+.note{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(239, 255, 22);
+    border-radius: 10%;
+}
+.note_text{
+    flex: 1;
+    height: 120px;
+    resize: none;
+    background-color: transparent;
+    font-size: 1rem;
+    line-height: 1.8rem;
+    outline: none;
+    border: none;
+}
+.time{
+    color:rgb(255, 255, 255);
+    font-size: large;
+    
+    
+}

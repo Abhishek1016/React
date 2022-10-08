@@ -1,0 +1,26 @@
+.officelevel{
+    display: flex;
+    width: 1275px;
+    height: 250px;
+    
+
+}
+.officeleft
+{
+    width: 250px;
+    
+}
+.officeleft_heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 150%;
+    color: rgb(57, 114, 0);
+}
+.officeright{
+    padding-left: 10px;
+    padding-top: 20px;
+    width: 1275px;
+    background-color: rgb(132, 138, 255);
+    border-radius: 5%;
+    display: flex;
+    gap: 20px;
+}

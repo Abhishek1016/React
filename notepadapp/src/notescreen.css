@@ -1,0 +1,43 @@
+.notescreen{
+    height: 860px;
+    width: 1275px;
+    background-color: rgb(201, 255, 227);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  
+    
+    
+}
+.notescreen_top{
+    width: 1275px;
+    height: 100px;
+    background-color: burlywood;
+    display: flex;
+    flex-direction: column;
+}
+.line1{
+    display: flex;
+}
+.mainhead{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 150px;
+    margin-top: 0%;
+}
+.subhead{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-right: 600px;
+    margin-top: 0%;
+}
+.notelogo{
+    width: 30px;
+    height: 30px;
+    border-radius: 35%;
+    padding-top: 10px;
+    
+}
+.notescreen_personallevel{
+    width: 1275px;
+    height: 250px;
+
+}

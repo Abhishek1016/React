@@ -1,0 +1,26 @@
+.personallevel{
+    display: flex;
+    width: 1275px;
+    height: 250px;
+    
+
+}
+.personalleft
+{
+    width: 250px;
+    
+}
+.personalleft_heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 150%;
+    color: rgb(57, 114, 0);
+}
+.personalright{
+    padding-left: 10px;
+    padding-top: 20px;
+    width: 1275px;
+    background-color: aquamarine;
+    border-radius: 5%;
+    display: flex;
+    gap: 20px;
+}
