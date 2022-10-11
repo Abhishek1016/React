@@ -1,0 +1,30 @@
+nav{
+  display: flex;
+  flex-direction: row;
+  width: 1275px;
+  height: 50px;
+  background-color: blue;
+  padding: 20px;
+  }
+  #link1{
+    padding-left: 20px;
+    color: white;
+    
+  }
+  #link2{
+    padding-left: 20px;
+ 
+    color: white;
+    
+  }
+  #link3{
+  
+    color: white;
+    padding-left: 20px;
+    
+  }
+  #link4{
+    padding-left: 20px;
+    color: white;
+    
+  }
